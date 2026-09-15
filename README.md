@@ -19,7 +19,7 @@
 
 ---
 
-## 🧘‍♀️ Project 2: Yoga Poster ("Beginner Yoga Class")
+## 🧘‍♀️ Project 1: Yoga Poster ("Beginner Yoga Class")
 * **Description:** An elegant promotional flyer/poster designed for yoga classes, highlighting special discounts, contact numbers, and clean aesthetic elements.
 * **Tools Used:** Canva
 * **Design Preview:**
