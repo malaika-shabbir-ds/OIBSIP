@@ -24,6 +24,9 @@
 * **Tools Used:** Canva
 * **Design Preview:**
   ![Yoga Poster](yoga-poster.png)
+## 🔗 Project Demo & Video Walkthrough
+* **LinkedIn Video Link:** [https://www.linkedin.com/posts/malaika-shabbir-067616428_oasisinfobyte-graphicdesign-internship-activity-7504169912932655105-8bbp?utm_source=share&utm_medium=member_android&rcm=ACoAAGxNQc8BpDmdjaIQtqI2RIHxIpX-wN7Idl0]
+*
 ## Project 2: Logo Design ("Maison Celeste")
 
 - **Description:** A professional, elegant, and minimalist brand logo designed for "Maison Celeste" under the tagline "Illuminate Your Style". Created with custom typography and sophisticated layout aesthetics in multiple color variations.
@@ -36,6 +39,4 @@
 - **LinkedIn Video Link:** [https://lnkd.in/p/d_ct4Pry]
 ---
 
-## 🔗 Project Demo & Video Walkthrough
-* **LinkedIn Video Link:** [https://www.linkedin.com/posts/malaika-shabbir-067616428_oasisinfobyte-graphicdesign-internship-activity-7504169912932655105-8bbp?utm_source=share&utm_medium=member_android&rcm=ACoAAGxNQc8BpDmdjaIQtqI2RIHxIpX-wN7Idl0]
-*
+
