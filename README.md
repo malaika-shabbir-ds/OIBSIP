@@ -24,7 +24,16 @@
 * **Tools Used:** Canva
 * **Design Preview:**
   ![Yoga Poster](yoga-poster.png)
+## Project 2: Logo Design ("Maison Celeste")
 
+- **Description:** A professional, elegant, and minimalist brand logo designed for "Maison Celeste" under the tagline "Illuminate Your Style". Created with custom typography and sophisticated layout aesthetics in multiple color variations.
+- **Tools Used:** Canva
+- **Design Preview & Variations:** 
+  - Gold & Black Edition
+  - Classic Black & White Edition
+  - White & Black Edition
+## Project Demo & Video Walkthrough
+- **LinkedIn Video Link:** [https://lnkd.in/p/d_ct4Pry]
 ---
 
 ## 🔗 Project Demo & Video Walkthrough
