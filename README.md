@@ -37,6 +37,17 @@
   - White & Black Edition
 ## Project Demo & Video Walkthrough
 - **LinkedIn Video Link:** [https://lnkd.in/p/d_ct4Pry]
+# Project 3: Business Card Design ("Monarch Clothing")
+
+- **Description:** A professional, elegant, and modern business card concept designed for "Monarch Clothing". Created with a sleek monogram logo ("MC"), structured front and back layout alignment, and a professional color palette.
+- **Tools Used:** Figma 
+- **Design Preview & Details:** 
+  - Modern Monogram Logo Integration ("MC")
+  - Structured Front & Back Layout
+  - Complete Contact Information Layout (Phone, Address, Email, Website)
+## Project Demo & Video Walkthrough
+- **LinkedIn Post Link:** [https://lnkd.in/p/diCAAD6v]
+-
 ---
 
 
