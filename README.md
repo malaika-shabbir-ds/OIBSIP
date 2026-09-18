@@ -47,6 +47,41 @@
   - Complete Contact Information Layout (Phone, Address, Email, Website)
 ## Project Demo & Video Walkthrough
 - **LinkedIn Post Link:** [https://lnkd.in/p/diCAAD6v]
+Project 4: Infographic Design ("What Should I Post on LinkedIn?")
+
+- Description: A professional, modern, and engaging infographic designed around the topic "What Should I Post on LinkedIn?" The design presents different LinkedIn content ideas in a clear and visually appealing format.
+
+- Tools Used: Canva
+
+- Design Preview & Details:
+  
+  - Professional LinkedIn infographic design
+  - Attractive green, white, and orange color palette
+  - Clear and structured layout
+  - Multiple content idea sections with icons and illustrations
+  - Content ideas include:
+    - Lessons from past experiences
+    - Daily learning and experiences
+    - Latest industry trends
+    - Behind-the-scenes content
+    - Tips and valuable advice
+    - Questions and discussion topics
+    - Favorite quotes from books
+    - Conversations and interviews
+    - Personal career stories
+    - Lessons learned from failures
+  - Proper alignment, spacing, and visual hierarchy
+  - Designed specifically for professional LinkedIn audience engagement
+
+Project Demo & Video Walkthrough
+
+- Video: A complete walkthrough of the infographic design process created in Canva.
+- LinkedIn Post Link: [https://lnkd.in/p/dAM77M5f]
+
+Key Learning / Outcome
+
+This project helped demonstrate the ability to create a professional infographic, organize information effectively, maintain visual consistency, and present multiple content ideas in a simple and engaging way for a LinkedIn audience.
+
 -
 ---
 
